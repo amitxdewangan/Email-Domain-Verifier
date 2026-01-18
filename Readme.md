@@ -37,14 +37,10 @@ Now, you're all set use the project for validate your email domain.
 
 ### Made with ❤️ by Amit Dewangan
 
-Connect with me here: **[LinkedIn] & [Twitter]** !!✨
-\
-\
+**[Connect with me here !!✨]**
+
 Other members: Akash Kumar Verma, Deepanshu Pawar, Ayush Sahu
 
-
-[LinkedIn]: <https://www.linkedin.com/in/amit--dewangan/>
-[Twitter]: <https://twitter.com/iamamit_18/>
+[Connect with me here !!✨]: <https://linktr.ee/amit.dewangan>
 [GoDownload]: <https://go.dev/dl//>
-[VScode]:<https://code.visualstudio.com//>
 [Go-Offical]: <https://go.dev/doc//>
